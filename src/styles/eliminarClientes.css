@@ -1,0 +1,11 @@
+.container-eliminar-clientes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 800px;
+    margin-top: 30px;
+    gap: 50px;
+    background-color: rgb(238, 210, 54);
+}
